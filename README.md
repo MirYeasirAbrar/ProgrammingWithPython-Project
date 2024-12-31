@@ -1,6 +1,6 @@
 # Pythone Projects for Beginners
 
-## Simple Calculator Program
+## Simple Console Calculator Program
 ```
 # This function adds two numbers
 def add(x, y):
@@ -116,7 +116,7 @@ while True:
 
 ```
 
-## Rock-Paper-Scissors
+## Rock-Paper-Scissors Game
 
 ```
 import random
