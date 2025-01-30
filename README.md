@@ -1,4 +1,4 @@
-# Python Projects for Beginners
+# Project 01 - Python Projects for Beginners
 
 This repository contains three beginner-friendly Python projects to help you practice and improve your programming skills. Each project is designed to cover basic concepts of Python, including functions, loops, conditionals, and input handling.
 
